@@ -1,4 +1,4 @@
-# AstroMitra - Astrology & Numerology Chatbot
+# AstroMitra  🌟  - Astrology & Numerology Chatbot
 
 AstroMitra is an innovative Android-based astrology and numerology chatbot that provides personalized predictions and practical guidance based on astrology, numerology, and Lal Kitab principles. It offers real-time insights into key areas of life, such as career, relationships, health, and wealth.
 
@@ -40,6 +40,12 @@ AstroMitra is an innovative Android-based astrology and numerology chatbot that 
 
 - Launch Android Studio and select Open an existing Android Studio project.
 - Navigate to the project directory and open it.
+
+# Images 🖼️
+
+![AstroMitra](https://github.com/user-attachments/assets/83280b25-572e-4edc-8a3b-9a76a6a3728a)
+
+![astromitra](https://github.com/user-attachments/assets/c849af5b-305d-4ee1-a09d-d9448aad7231)
 
 # Contact
 For any inquiries or feedback, feel free to reach out to the repository owner at [iamvishant01@gmail.com].
