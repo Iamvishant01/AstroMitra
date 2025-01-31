@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Border color when focused -->
+        <item name="boxStrokeColor">@color/black</item>
+        <!-- Default border color -->
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="hintTextColor">@color/black</item> <!-- Hint color -->
+        <item name="android:textColorHint">@color/black</item> <!-- Default hint color for compatibility -->
+        <item name="boxBackgroundMode">outline</item>
+    </style>
+</resources>
