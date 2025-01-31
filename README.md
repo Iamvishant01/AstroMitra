@@ -17,7 +17,6 @@ AstroMitra is an innovative Android-based astrology and numerology chatbot that 
 ## Technologies Used
 
 - **Android Development:** Java, Android SDK
-- **Backend:** Firebase / Custom backend for data storage
 - **APIs:** Gemini API (for astrology data), Custom API for numerology and Lal Kitab features
 - **Chatbot Framework:** Dialogflow or Custom-built chatbot logic for tailored interaction
 
@@ -28,7 +27,6 @@ AstroMitra is an innovative Android-based astrology and numerology chatbot that 
 ### Prerequisites
 
 - **Android Studio** - Download and install Android Studio from [official site](https://developer.android.com/studio).
-- **Firebase** - Set up Firebase for authentication and database services (optional).
 - **API Keys** - Make sure to obtain necessary API keys for astrology and numerology data.
 
 ### Installation
